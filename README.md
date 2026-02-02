@@ -29,7 +29,7 @@ Business leaders, developers, and consultants seeking a reusable, step-by-step w
 ---
 
 ## **Dataset Note**
-*This dataset has no date column and most customers appear only once, meaning:*
+*This dataset has been taken from https://www.kaggle.com/datasets/wardabilal/customer-shopping-behaviour-analysis it has no date column and most customers appear only once, meaning:*
 - Real forecasting of future orders cannot be performed
 - Association rules may not yield meaningful cross-sell insights without multi-item/multi-order customer data
 
